@@ -1,1 +1,1 @@
-# sum-prices
+# Sum prices
